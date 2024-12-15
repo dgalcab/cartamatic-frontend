@@ -1,0 +1,32 @@
+{
+  "name": "cartamatic_frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@chenfengyuan/vue-qrcode": "^2.0.0",
+    "@fortawesome/fontawesome-free": "^6.6.0",
+    "axios": "^1.7.7",
+    "fabric": "^6.4.2",
+    "flatpickr": "^4.6.13",
+    "leaflet": "^1.9.4",
+    "pusher-js": "^8.4.0-rc2",
+    "qrcode.vue": "^3.5.0",
+    "swiper": "^11.1.14",
+    "vue": "^3.4.37",
+    "vue-router": "^4.4.5",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.2",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.13",
+    "vite": "^5.4.1"
+  }
+}
